@@ -8,7 +8,7 @@
            revision="refs/heads/bka" />
 
   <remote  name="evo-codeberg"
-           fetch="https://codeberg.org/Evolution-X"
+           fetch="https://codeberg.org/Project-Elixir"
            sync-c="true"
            sync-j="4"
            revision="refs/heads/bka" />
